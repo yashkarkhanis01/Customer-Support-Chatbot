@@ -1,0 +1,79 @@
+<aiml version="2.0">
+
+<!-- Greetings -->
+<category>
+  <pattern>HELLO</pattern>
+  <template>Hello! Welcome to our customer support. How may I assist you today?</template>
+</category>
+
+<category>
+  <pattern>HI</pattern>
+  <template>Hi there! How can I help you?</template>
+</category>
+
+<category>
+  <pattern>GOOD MORNING</pattern>
+  <template>Good morning! How can I assist you today?</template>
+</category>
+
+<category>
+  <pattern>GOOD AFTERNOON</pattern>
+  <template>Good afternoon! How may I assist you?</template>
+</category>
+
+<category>
+  <pattern>GOOD EVENING</pattern>
+  <template>Good evening! How can I help you?</template>
+</category>
+
+<!-- Basic Questions -->
+<category>
+  <pattern>WHAT IS YOUR NAME</pattern>
+  <template>My name is CustomerBot. How may I assist you?</template>
+</category>
+
+<category>
+  <pattern>WHAT DO YOU DO</pattern>
+  <template>I'm here to provide assistance and answer any questions you may have.</template>
+</category>
+
+<!-- Customer Support -->
+<category>
+  <pattern>HOW CAN I CONTACT SUPPORT</pattern>
+  <template>You can contact support at support@example.com or call us at +123456789.</template>
+</category>
+
+<category>
+  <pattern>HOW DO I RETURN AN ITEM</pattern>
+  <template>To return an item, please visit our website and fill out the return form. You can also contact support for assistance.</template>
+</category>
+
+<!-- Product Inquiries -->
+<category>
+  <pattern>WHAT PRODUCTS DO YOU OFFER</pattern>
+  <template>We offer a wide range of products including electronics, clothing, accessories, and more. Is there anything specific you're looking for?</template>
+</category>
+
+<category>
+  <pattern>DO YOU HAVE ANY DISCOUNTS</pattern>
+  <template>Yes, we often have discounts and promotions running. You can check our website or subscribe to our newsletter for updates on the latest deals.</template>
+</category>
+
+<!-- Farewell -->
+<category>
+  <pattern>GOODBYE</pattern>
+  <template>Goodbye! If you have any further questions, feel free to reach out.</template>
+</category>
+
+<category>
+  <pattern>BYE</pattern>
+  <template>Goodbye! Have a great day!</template>
+</category>
+
+<!-- Unknown Prompt -->
+<category>
+  <pattern>*</pattern>
+  <template>I'm sorry, I didn't quite understand that. Could you please rephrase your question?</template>
+</category>
+
+</aiml>

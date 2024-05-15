@@ -1,0 +1,5 @@
+pip install python-aiml
+pip install lxml
+pip install pytz
+pip install requests
+pip install beautifulsoup4
