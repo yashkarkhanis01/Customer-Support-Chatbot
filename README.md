@@ -1,13 +1,13 @@
 <h1 align="center">Customer Support Chatbot 🤖</h1>
 <p align="center">
-  <a href="https://github.com/your_username/customer-support-chatbot">
-   <img alt="GitHub Repository Stars Count" src="https://img.shields.io/github/stars/your_username/customer-support-chatbot?style=social" />
+  <a href="https://github.com/yashkarkhanis01/Customer-Support-Chatbot">
+   <img alt="GitHub Repository Stars Count" src="https://img.shields.io/github/stars/yashkarkhanis01/Customer-Support-Chatbot?style=social" />
   </a>
-  <a href="https://github.com/your_username/customer-support-chatbot">
-  <img alt="Github Repository Fork Count" src="https://img.shields.io/github/forks/your_username/customer-support-chatbot?style=social">
+  <a href="https://github.com/yashkarkhanis01/Customer-Support-Chatbot">
+  <img alt="Github Repository Fork Count" src="https://img.shields.io/github/forks/yashkarkhanis01/Customer-Support-Chatbot?style=social">
   </a>
-  <a href="https://github.com/your_username/customer-support-chatbot">
-   <img alt="Number of Contributers" src="https://img.shields.io/github/contributors/your_username/customer-support-chatbot?style=social">
+  <a href="https://github.com/yashkarkhanis01/Customer-Support-Chatbot">
+   <img alt="Number of Contributers" src="https://img.shields.io/github/contributors/yashkarkhanis01/Customer-Support-Chatbot?style=social">
   </a>    
 </p>
 <h3 align="center">Enhance Customer Service with an AI-driven Chatbot</h3>
@@ -41,6 +41,6 @@ This open-source Python project implements a Customer Support Chatbot using AIML
 ## ❤️ Contributors:
 <br>
 <a href="https://github.com/yashkarkhanis01/Customer-Support-Chatbot/graphs/contributors">
-  <img src="https://contrib.rocks/image?repo=your_username/customer-support-chatbot&&max=817" />
+  <img src="https://contrib.rocks/image?repo=yashkarkhanis01/Customer-Support-Chatbot&&max=817" />
 </a>
 </br>
